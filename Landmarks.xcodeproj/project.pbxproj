@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C1F51122AC6C31800572E0C /* 3RD-PARTY-LICENSES in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F510F2AC6C31700572E0C /* 3RD-PARTY-LICENSES */; };
+		2C1F51132AC6C31800572E0C /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F51102AC6C31800572E0C /* LICENSE */; };
+		2C1F51142AC6C31800572E0C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F51112AC6C31800572E0C /* README.md */; };
 		2CA3045D2AC5E7E1007FDFD0 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA3045C2AC5E7E1007FDFD0 /* LandmarksApp.swift */; };
 		2CA3045F2AC5E7E1007FDFD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA3045E2AC5E7E1007FDFD0 /* ContentView.swift */; };
 		2CA304612AC5E7E3007FDFD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CA304602AC5E7E3007FDFD0 /* Assets.xcassets */; };
@@ -14,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C1F510F2AC6C31700572E0C /* 3RD-PARTY-LICENSES */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3RD-PARTY-LICENSES"; sourceTree = "<group>"; };
+		2C1F51102AC6C31800572E0C /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		2C1F51112AC6C31800572E0C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2CA304592AC5E7E1007FDFD0 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CA3045C2AC5E7E1007FDFD0 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		2CA3045E2AC5E7E1007FDFD0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +41,9 @@
 		2CA304502AC5E7E1007FDFD0 = {
 			isa = PBXGroup;
 			children = (
+				2C1F510F2AC6C31700572E0C /* 3RD-PARTY-LICENSES */,
+				2C1F51102AC6C31800572E0C /* LICENSE */,
+				2C1F51112AC6C31800572E0C /* README.md */,
 				2CA3045B2AC5E7E1007FDFD0 /* Landmarks */,
 				2CA3045A2AC5E7E1007FDFD0 /* Products */,
 			);
@@ -127,6 +136,9 @@
 			files = (
 				2CA304642AC5E7E3007FDFD0 /* Preview Assets.xcassets in Resources */,
 				2CA304612AC5E7E3007FDFD0 /* Assets.xcassets in Resources */,
+				2C1F51142AC6C31800572E0C /* README.md in Resources */,
+				2C1F51132AC6C31800572E0C /* LICENSE in Resources */,
+				2C1F51122AC6C31800572E0C /* 3RD-PARTY-LICENSES in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
